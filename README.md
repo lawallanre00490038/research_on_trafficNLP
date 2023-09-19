@@ -1,5 +1,7 @@
 # research_on_trafficNLP
-Geo-Visualization of Road Accident and Traffic Congestion Hotspots for Real-Time Traffic Optimization, Mobility Planning, and Commuters’ Safety Using Traffic Reported Social Media Posts
+TOPIC: Geo-Visualization of Road Accident and Traffic Congestion Hotspots for Real-Time Traffic Optimization, Mobility Planning, and Commuters’ Safety Using Traffic Reported Social Media Posts
+
+
 ABSTRACT
 Amidst the bustling economic hub of Nigeria, known as Lagos, traffic congestion remains a persistent challenge that plagues the city, impeding the economy, health, and safety of its residents. Professionals spend a staggering 90% of their work time navigating traffic, resulting in stress and anxiety. Some are robbed in the process, even in broad daylight. To address this problem, this work is done to help government agencies optimize traffic management and provide road users with the necessary information to navigate the city safely and efficiently and make informed decisions about which routes to take.  
 In this research, we introduce a new approach using the Lagos State Traffic Management Agency's (LASTMA) social media tweets, which provide historical and real-time spatial and informative data on traffic congestion and road safety incidents. I leveraged the Naive Bayes classifier to obtain the sentiment polarity of the tweets, followed by using rule-based, statistical, and machine-learning techniques for geoparsing and spatial analysis. 
