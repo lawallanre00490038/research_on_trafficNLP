@@ -10,4 +10,4 @@ With this analysis, government agencies can develop traffic management strategie
 This work has the potential to reduce traffic congestion and improve road safety, leading to economic and health benefits for Lagos residents. The results of this research not only have practical implications for the city but can also be extended to other urban areas that have traffic agencies and are also facing similar challenges.
 
 
-The main python file of the is the main.pynb. That is where other files were imported.
+The main Python file is  main.pynb. That is where other files were imported.
